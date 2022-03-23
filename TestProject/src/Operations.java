@@ -1,6 +1,7 @@
 public class Operations 
 {
 	//Test Project
+	//C:\WORKSPACES\Sample WS
 	public static void main(String args[])
 	{
 		System.out.println("Hello from Eclipse!");
